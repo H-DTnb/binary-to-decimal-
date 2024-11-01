@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\binary to decimal\binary to decimal\bin\Debug\binary to decimal.exe.config
+C:\Users\dell\Desktop\binary to decimal\binary to decimal\bin\Debug\binary to decimal.exe
+C:\Users\dell\Desktop\binary to decimal\binary to decimal\bin\Debug\binary to decimal.pdb
+C:\Users\dell\Desktop\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\binary to decimal\binary to decimal\obj\Debug\binary to decimal.exe
+C:\Users\dell\Desktop\binary to decimal\binary to decimal\obj\Debug\binary to decimal.pdb
